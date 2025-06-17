@@ -1,2 +1,3 @@
 Hello world! This is a test for Git.
 Testing git commit message using command line.
+Testing git commit message using vim
